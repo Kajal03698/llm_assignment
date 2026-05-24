@@ -1,38 +1,33 @@
 [
   {
     "id": "q01",
-    "question": "What was the reported revenue trend in the latest two periods for Acme Corporation?",
-    "reference_answer": "Revenue grew from $3.75B in FY2022 to $4.2B in FY2023 (12% increase).",
-    "company_filter": "Acme Corporation"
+    "question": "What was the reported revenue trend in the latest two periods?",
+    "reference_answer": "Revenue grew from $3.75B in FY2022 to $4.2B in FY2023 (12% increase)."
   },
   {
     "id": "q02",
-    "question": "Which factors were cited for profit increase at Acme Corporation?",
-    "reference_answer": "Higher subscription attach rates, lower COGS, disciplined opex control.",
-    "company_filter": "Acme Corporation"
+    "question": "Which factors were cited for profit increase/decrease?",
+    "reference_answer": "Higher subscription attach rates, lower COGS, disciplined opex control."
   },
   {
     "id": "q03",
-    "question": "What risks were highlighted in management discussion for Globex Inc?",
+    "question": "What risks were highlighted in management discussion?",
     "reference_answer": "Raw material volatility, contract manufacturer dependency, antitrust review, interest rate exposure."
   },
   {
     "id": "q04",
-    "question": "Compare operating margin for Acme Corporation across fiscal 2022 and 2023.",
-    "reference_answer": "16.1% in FY2022 vs 18.4% in FY2023.",
-    "company_filter": "Acme Corporation"
+    "question": "Compare operating margin across two selected years.",
+    "reference_answer": "16.1% in FY2022 vs 18.4% in FY2023."
   },
   {
     "id": "q05",
-    "question": "What assumptions are stated for forward-looking guidance at Acme Corporation?",
-    "reference_answer": "Mid-single-digit GDP growth, stable FX, no material regulatory changes; FY2024 revenue $4.5-4.7B.",
-    "company_filter": "Acme Corporation"
+    "question": "What assumptions are stated for forward-looking guidance?",
+    "reference_answer": "Mid-single-digit GDP growth, stable FX, no material regulatory changes; FY2024 revenue $4.5-4.7B."
   },
   {
     "id": "q06",
-    "question": "Which segment contributed most to growth at Acme Corporation in fiscal 2023 and why?",
-    "reference_answer": "Cloud Services (+28%) due to AI workload contracts and EMEA expansion.",
-    "company_filter": "Acme Corporation"
+    "question": "Which segment contributed most to growth and why?",
+    "reference_answer": "Cloud Services (+28%) due to AI workload contracts and EMEA expansion."
   },
   {
     "id": "q07",
