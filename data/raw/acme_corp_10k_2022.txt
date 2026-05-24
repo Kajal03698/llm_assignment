@@ -1,0 +1,14 @@
+ACME CORPORATION — FORM 10-K
+Company: Acme Corporation | Ticker: ACME | Form: 10-K | Fiscal Year: 2022 | Period: FY | Filing Date: 2023-02-14
+
+Item 7 - Management Discussion and Analysis
+
+Revenue increased 10% to $3.75 billion in fiscal 2022 from $3.41 billion in fiscal 2021. Growth was led by Enterprise Software (+14%) while Legacy Hardware was flat. Operating margin was 16.1%, up from 15.0% in fiscal 2021. Profit increase factors included post-pandemic demand recovery and favorable product mix toward higher-margin software licenses.
+
+Profit decrease was not applicable in the current period; prior-year comparisons reflected one-time impairment charges in Legacy Hardware that did not recur. Forward-looking assumptions for fiscal 2023 included inflation moderating to 3-4%, continued hybrid work adoption driving collaboration software demand, and incremental investment of $150M in R&D for AI features.
+
+Risks in MD&A: semiconductor shortages, inflation on wages, and geopolitical uncertainty affecting international revenue (38% of total).
+
+Item 8 - Financial Statements
+
+Consolidated revenue: FY2022 $3,750M, FY2021 $3,410M. Operating margin FY2022 16.1% vs FY2021 15.0%. Segment revenue FY2022: Cloud Services $1.64B (+22%), Enterprise Software $1.29B (+14%), Legacy Hardware $0.82B (0%).

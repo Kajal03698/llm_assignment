@@ -1,0 +1,16 @@
+NOVATECH INDUSTRIES — FORM 10-K
+Company: NovaTech Industries | Ticker: NVTI | Form: 10-K | Fiscal Year: 2023 | Period: FY | Filing Date: 2024-02-10
+
+Item 7 - Management Discussion and Analysis
+
+Revenue was $1.62 billion in fiscal 2023, up 16% from $1.40 billion in fiscal 2022. Robotics & Controls segment grew 21%, the largest contributor to consolidated growth, driven by automotive and warehouse automation demand. Sensors segment grew 11%.
+
+Operating margin improved to 13.5% from 12.0%. Profit increase factors: volume leverage, favorable mix toward software-licensed controls, and lower restructuring expense. Profit decrease was not material in the current year.
+
+Risks highlighted in management discussion: pending Globex Inc acquisition regulatory review (see Note 4), export controls on precision components to certain countries, and patent dispute with a competitor in lidar modules.
+
+Forward-looking guidance for fiscal 2024 (standalone basis): revenue $1.75B–$1.82B; assumes successful close of Globex transaction in Q3 2024, synergies of $40M annualized by 2025, and R&D at 9% of revenue.
+
+Item 8 - Financial Statements
+
+FY2023 revenue $1,620M; FY2022 $1,400M. Operating margin 13.5% vs 12.0%. Robotics & Controls $980M (+21%), Sensors $640M (+11%).

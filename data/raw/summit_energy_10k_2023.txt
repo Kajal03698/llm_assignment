@@ -1,0 +1,20 @@
+SUMMIT ENERGY PARTNERS LP — FORM 10-K
+Company: Summit Energy Partners | Ticker: SMEP | Form: 10-K | Fiscal Year: 2023 | Period: FY | Filing Date: 2024-02-20
+
+Item 7 - Management Discussion and Analysis
+
+Total revenue was $8.6 billion in fiscal 2023, down 11% from $9.7 billion in fiscal 2022, primarily due to lower average realized prices for natural gas (-18%) partially offset by higher LNG export volumes (+14%). Midstream Services revenue grew 6% on new pipeline contracts.
+
+Operating margin was 22.1% versus 24.5% in fiscal 2022. Profit decrease factors: commodity price decline, increased decommissioning provisions, and storm-related repair costs ($88M) on Gulf Coast assets. Profit increase factors in Midstream: fee-based contract mix now 71% of segment EBITDA.
+
+Risks highlighted in management discussion: environmental litigation in two states, methane regulation compliance costs, counterparty credit risk among regional utilities, and geopolitical impacts on LNG netbacks.
+
+Forward-looking guidance assumes Henry Hub near $3.20/MMBtu, WTI $75–$85/bbl, and capital expenditure $1.1B focused on carbon capture pilots. Fiscal 2024 revenue guidance: $8.2B–$8.8B.
+
+Item 1A - Risk Factors
+
+Commodity price volatility, regulatory changes to federal leasing, and extreme weather remain material risks.
+
+Item 8 - Financial Statements
+
+FY2023 revenue $8,600M; FY2022 $9,700M. Operating margin 22.1% vs 24.5%. Exploration & Production $5.1B, Midstream $2.4B, Renewables $1.1B (+22%).

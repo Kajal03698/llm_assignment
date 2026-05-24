@@ -1,0 +1,14 @@
+ACME CORPORATION — FORM 10-Q
+Company: Acme Corporation | Ticker: ACME | Form: 10-Q | Fiscal Year: 2024 | Period: Q1 | Filing Date: 2024-05-10
+
+Item 2 - Management Discussion and Analysis
+
+Revenue for Q1 2024 was $1.08 billion, up 9% versus $991 million in Q1 2023. Cloud Services grew 19% and represented 52% of quarterly revenue. Operating margin was 17.8% compared to 16.9% in Q1 2023.
+
+Factors cited for profit increase: enterprise renewal rates above 94%, lower cloud infrastructure unit costs, and reduced sales and marketing as percent of revenue. Factors cited for profit decrease versus Q4 2023: seasonal hiring in engineering and one-time partner integration costs for the DataForge acquisition.
+
+Risks highlighted in management discussion: AI regulation in the EU, customer consolidation among Fortune 500 accounts, and latency in federal security certification for new products.
+
+Forward-looking guidance assumptions for Q2 2024: stable interest rates, no major cloud outage events, and pipeline conversion of 32% on deals over $1M ARR. Q2 2024 revenue guidance: $1.10B–$1.13B.
+
+Segment summary Q1 2024: Cloud Services $562M (+19%), Enterprise Software $348M (+6%), Legacy Hardware $170M (-5%).

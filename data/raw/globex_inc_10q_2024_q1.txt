@@ -1,0 +1,16 @@
+GLOBEX INC — FORM 10-Q — QUARTER ENDED MARCH 31, 2024
+Company: Globex Inc | Ticker: GLBX | Form: 10-Q | Fiscal Year: 2024 | Period: Q1
+
+PART I — FINANCIAL INFORMATION
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Revenue for Q1 2024 was $890 million, up 6% compared to $839 million in Q1 2023. Sequential revenue declined 2% from Q4 2023 ($908 million) due to seasonally lower retail segment volumes. The Industrial Automation segment contributed most to year-over-year growth (+18%), driven by automotive OEM capex recovery in North America. Consumer Products segment declined 4% due to private-label competition and promotional pricing pressure.
+
+Operating margin for Q1 2024 was 11.2% versus 10.5% in Q1 2023 and 12.0% in Q4 2023. Margin expansion year-over-year reflected manufacturing footprint consolidation completed in late 2023. Factors cited for profit increase: volume leverage in Industrial Automation, lower freight costs, and reduced severance expense. Factors cited for profit decrease versus prior quarter: unfavorable mix shift toward lower-margin Consumer Products and higher marketing spend for product launch.
+
+Management discussion risk highlights: raw material price volatility (steel and resins), dependency on three contract manufacturers in Southeast Asia, pending antitrust review of the proposed NovaTech acquisition, and interest rate exposure on $1.2B floating-rate debt.
+
+Forward-looking guidance (updated April 2024): FY2024 revenue range $3.55B–$3.65B; assumes stable USD/EUR, no major supply chain disruptions, and successful integration planning for NovaTech. Q2 2024 revenue expected $900M–$920M.
+
+Segment summary Q1 2024: Industrial Automation $412M (+18%), Consumer Products $298M (-4%), Services & Licensing $180M (+3%).

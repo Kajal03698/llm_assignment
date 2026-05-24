@@ -1,0 +1,12 @@
+GLOBEX INC — FORM 10-K
+Company: Globex Inc | Ticker: GLBX | Form: 10-K | Fiscal Year: 2023 | Period: FY | Filing Date: 2024-03-01
+
+Item 7 - Management Discussion and Analysis
+
+Annual revenue for fiscal 2023 was $3.48 billion, an increase of 5% from $3.31 billion in fiscal 2022. Operating margin was 10.8% compared to 9.9% in fiscal 2022. The Industrial Automation segment was the largest contributor to growth (+12%), supported by reshoring trends and factory automation upgrades. Consumer Products grew 1% with share gains in Europe offset by North America softness.
+
+Risks highlighted: commodity inflation, labor disputes at two distribution centers, and cybersecurity threats to OT networks. Guidance assumptions for fiscal 2024: GDP growth 2-2.5%, no additional trade tariffs, and completion of NovaTech acquisition by Q3 2024.
+
+Item 8 - Financial Statements
+
+FY2023 revenue $3,480M; FY2022 $3,310M. Operating margin 10.8% (FY2023) vs 9.9% (FY2022). Segments FY2023: Industrial Automation $1.55B, Consumer Products $1.18B, Services $0.75B.

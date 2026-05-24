@@ -1,0 +1,3 @@
+# Avoid scanning heavy optional ML packages (transformers/torch) in site-packages
+[server]
+fileWatcherType = "poll"

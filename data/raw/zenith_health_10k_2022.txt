@@ -1,0 +1,16 @@
+ZENITH HEALTH SYSTEMS — FORM 10-K
+Company: Zenith Health Systems | Ticker: ZNTH | Form: 10-K | Fiscal Year: 2022 | Period: FY | Filing Date: 2023-02-25
+
+Item 7 - Management Discussion and Analysis
+
+Revenue increased 6% to $1.99 billion in fiscal 2022 from $1.88 billion in fiscal 2021. Hospital Solutions grew 9%; Pharmacy Benefits grew 2%. Operating margin was 15.6%, up from 14.8% in fiscal 2021.
+
+Profit increase factors: improved claims automation reducing admin cost per member, favorable prior-period reserve development in Pharmacy Benefits, and scale in analytics subscriptions.
+
+Risks highlighted in management discussion: nursing labor shortages affecting hospital IT deployment timelines, state Medicaid rate cuts in three regions, and third-party API outages impacting real-time eligibility checks.
+
+Forward-looking assumptions for fiscal 2023: 4% growth in covered lives, stable generic drug pricing, and $60M investment in interoperability standards.
+
+Item 8 - Financial Statements
+
+FY2022 revenue $1,990M; FY2021 $1,880M. Operating margin 15.6% vs 14.8%. Hospital Solutions $1.19B (+9%), Pharmacy Benefits $0.80B (+2%).

@@ -1,0 +1,14 @@
+GLOBEX INC — FORM 10-Q
+Company: Globex Inc | Ticker: GLBX | Form: 10-Q | Fiscal Year: 2023 | Period: Q3 | Filing Date: 2023-11-02
+
+Item 2 - Management Discussion and Analysis
+
+Revenue for Q3 2023 was $865 million, up 3% compared to $840 million in Q3 2022. Industrial Automation grew 7%; Consumer Products declined 1%. Operating margin was 10.6% versus 9.8% in Q3 2022.
+
+Profit increase factors: manufacturing yield improvements and lower ocean freight rates. Profit decrease factors versus Q2 2023: product recall reserve of $12M in Consumer Products and higher R&D for NovaTech integration planning.
+
+Risks highlighted: steel tariff proposals, union negotiations at the Detroit assembly plant, and customer bankruptcy of a mid-size appliance OEM.
+
+Forward-looking guidance assumptions: inventory normalization in retail channels, stable commodity indices, and Q4 2023 revenue $880M–$895M.
+
+Segment summary Q3 2023: Industrial Automation $398M (+7%), Consumer Products $292M (-1%), Services & Licensing $175M (+2%).

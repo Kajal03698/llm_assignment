@@ -1,0 +1,14 @@
+ZENITH HEALTH SYSTEMS — FORM 10-Q
+Company: Zenith Health Systems | Ticker: ZNTH | Form: 10-Q | Fiscal Year: 2024 | Period: Q1 | Filing Date: 2024-05-08
+
+Item 2 - Management Discussion and Analysis
+
+Q1 2024 revenue was $562 million, up 7% from $525 million in Q1 2023. Hospital Solutions increased 10%; Pharmacy Benefits increased 4%. Operating margin was 13.9% versus 14.5% in Q1 2023.
+
+Factors cited for profit decrease: elevated implementation costs on three large hospital go-lives and increased cloud hosting fees. Factors cited for profit increase year-over-year: higher software maintenance renewal rates and lower bad debt expense in Pharmacy Benefits.
+
+Risks in MD&A: pending CMS rulemaking on prior authorization automation, ransomware threats to hospital clients, and talent competition for clinical informatics specialists.
+
+Guidance assumptions for fiscal 2024: mid-single-digit revenue growth, operating margin 14.0–14.5%, and no material acquisitions.
+
+Segment summary Q1 2024: Hospital Solutions $348M (+10%), Pharmacy Benefits $214M (+4%).

@@ -1,0 +1,14 @@
+ZENITH HEALTH SYSTEMS — FORM 10-K
+Company: Zenith Health Systems | Ticker: ZNTH | Form: 10-K | Fiscal Year: 2023 | Period: FY | Filing Date: 2024-02-28
+
+Item 7 - Management Discussion and Analysis
+
+Total revenue grew 8% to $2.15 billion. Hospital Solutions segment revenue increased 11%, the primary growth driver, due to EHR migration projects and inpatient analytics modules. Pharmacy Benefits segment grew 3%. Operating margin declined to 14.2% from 15.6% in fiscal 2022.
+
+Profit decrease factors: increased clinical trial costs for diagnostic AI, one-time FDA remediation expenses ($45M), and higher sales commission rates on new logo wins. Revenue trend latest two periods: FY2023 $2.15B (+8%), FY2022 $1.99B (+6%).
+
+Risks in MD&A: reimbursement rate changes from CMS, data privacy regulations (HIPAA, state laws), clinical efficacy litigation, and reliance on two cloud hosting providers. Forward-looking guidance assumes Medicare reimbursement stable, pipeline conversion rate 35%, and R&D spend at 12% of revenue.
+
+Item 8 - Financial Statements
+
+Revenue FY2023 $2,150M, FY2022 $1,990M. Operating margin 14.2% vs 15.6%. Hospital Solutions $1.32B (+11%), Pharmacy Benefits $0.83B (+3%).

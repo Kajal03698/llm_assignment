@@ -1,0 +1,121 @@
+[
+  {
+    "id": "q01",
+    "question": "What was the reported revenue trend in the latest two periods for Acme Corporation?",
+    "reference_answer": "Revenue grew from $3.75B in FY2022 to $4.2B in FY2023 (12% increase).",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q02",
+    "question": "Which factors were cited for profit increase at Acme Corporation?",
+    "reference_answer": "Higher subscription attach rates, lower COGS, disciplined opex control.",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q03",
+    "question": "What risks were highlighted in management discussion for Globex Inc?",
+    "reference_answer": "Raw material volatility, contract manufacturer dependency, antitrust review, interest rate exposure."
+  },
+  {
+    "id": "q04",
+    "question": "Compare operating margin for Acme Corporation across fiscal 2022 and 2023.",
+    "reference_answer": "16.1% in FY2022 vs 18.4% in FY2023.",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q05",
+    "question": "What assumptions are stated for forward-looking guidance at Acme Corporation?",
+    "reference_answer": "Mid-single-digit GDP growth, stable FX, no material regulatory changes; FY2024 revenue $4.5-4.7B.",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q06",
+    "question": "Which segment contributed most to growth at Acme Corporation in fiscal 2023 and why?",
+    "reference_answer": "Cloud Services (+28%) due to AI workload contracts and EMEA expansion.",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q07",
+    "question": "What was Globex Inc Q1 2024 revenue and year-over-year change?",
+    "reference_answer": "$890M, up 6% vs Q1 2023.",
+    "company_filter": "Globex Inc"
+  },
+  {
+    "id": "q08",
+    "question": "Compare Globex Inc operating margin in Q1 2024 vs Q1 2023.",
+    "reference_answer": "11.2% vs 10.5%.",
+    "company_filter": "Globex Inc"
+  },
+  {
+    "id": "q09",
+    "question": "What factors caused profit decrease at Zenith Health Systems in fiscal 2023?",
+    "reference_answer": "Clinical trial costs, FDA remediation, higher sales commissions.",
+    "company_filter": "Zenith Health Systems"
+  },
+  {
+    "id": "q10",
+    "question": "What is the FY2024 revenue guidance range for Globex Inc?",
+    "reference_answer": "$3.55B to $3.65B.",
+    "company_filter": "Globex Inc"
+  },
+  {
+    "id": "q11",
+    "question": "What was Zenith Health Systems revenue in fiscal 2022 and 2023?",
+    "company_filter": "Zenith Health Systems"
+  },
+  {
+    "id": "q12",
+    "question": "Which Globex segment grew fastest in Q1 2024?",
+    "company_filter": "Globex Inc"
+  },
+  {
+    "id": "q13",
+    "question": "What operating margin did Acme report in fiscal 2021?",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q14",
+    "question": "What risks does Acme cite related to customers?",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q15",
+    "question": "How did Globex annual revenue change from fiscal 2022 to 2023?",
+    "company_filter": "Globex Inc"
+  },
+  {
+    "id": "q16",
+    "question": "What Hospital Solutions revenue growth did Zenith report?",
+    "company_filter": "Zenith Health Systems"
+  },
+  {
+    "id": "q17",
+    "question": "What profit decrease factors did Globex cite versus prior quarter in Q1 2024?",
+    "company_filter": "Globex Inc"
+  },
+  {
+    "id": "q18",
+    "question": "What was Legacy Hardware segment performance at Acme in fiscal 2023?",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q19",
+    "question": "What is the best recipe for chocolate cake?",
+    "reference_answer": "Out of scope — not a financial filing question."
+  },
+  {
+    "id": "q20",
+    "question": "What was the stock price of Acme Corporation on March 15, 2024?",
+    "reference_answer": "Insufficient context — filings do not contain daily stock prices."
+  },
+  {
+    "id": "q21",
+    "question": "Summarize cybersecurity risks mentioned by Acme Corporation.",
+    "company_filter": "Acme Corporation"
+  },
+  {
+    "id": "q22",
+    "question": "What NovaTech acquisition assumption appears in Globex forward guidance?",
+    "company_filter": "Globex Inc"
+  }
+]

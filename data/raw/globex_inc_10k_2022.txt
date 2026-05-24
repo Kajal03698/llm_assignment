@@ -1,0 +1,16 @@
+GLOBEX INC — FORM 10-K
+Company: Globex Inc | Ticker: GLBX | Form: 10-K | Fiscal Year: 2022 | Period: FY | Filing Date: 2023-03-02
+
+Item 7 - Management Discussion and Analysis
+
+Revenue for fiscal 2022 was $3.31 billion, up 4% from $3.18 billion in fiscal 2021. Operating margin improved modestly to 9.9% from 9.4%. Industrial Automation revenue increased 8%; Consumer Products declined 2% on inventory destocking at major retailers.
+
+Profit increase drivers: price increases on industrial SKUs (+4% blended), productivity program savings of $42M, and lower warranty claims. Profit decrease factors in Consumer Products: promotional depth and higher input costs for resins.
+
+Risks in MD&A: supply chain concentration in Malaysia and Vietnam, rising interest expense on revolving credit facility, and delayed customer capex in automotive.
+
+Forward-looking assumptions for fiscal 2023: normalization of freight rates, completion of plant consolidation in Ohio, and capex spend of $210M focused on automation lines.
+
+Item 8 - Financial Statements
+
+FY2022 revenue $3,310M; FY2021 $3,180M. Operating margin 9.9% vs 9.4%. Segments: Industrial Automation $1.38B (+8%), Consumer Products $1.21B (-2%), Services $0.72B (+3%).
